@@ -1,6 +1,6 @@
 services:
   app:
-    image: sbenhoff/docker-demo:v2
+    image: xfigueroa/docker-demo:v6
     build:
       context: .
       dockerfile: Dockerfile
